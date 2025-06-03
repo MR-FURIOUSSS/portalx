@@ -1,0 +1,4 @@
+name = "my-worker"
+main = "server.js"
+compatibility_date = "2022-07-12"
+compatibility_flags = ["nodejs_compat_v2"]
